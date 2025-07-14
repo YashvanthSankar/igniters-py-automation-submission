@@ -21,5 +21,9 @@
   "Additional Notes": "//*[@aria-labelledby='i66 i69']",
   "Patient Gender M": "//*[@aria-label='M']",
   "Patient Gender F": "//*[@aria-label='F']",
-  "Patient Gender Other": "//*[@aria-label='Other response']"
+  "Patient Gender Other": "//*[@aria-label='Other response']",
+  "Patient Admission Flag DROPDOWN": "//div[contains(@class, 'jgvuAb') and @role='listbox']",
+  "Patient Admission Flag TRUE": "//*[@data-value='TRUE']",
+  "Patient Admission Flag FALSE": "//*[@data-value='FALSE']"
+
 }
