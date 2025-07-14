@@ -1,11 +1,11 @@
-# 🏥 Automated Google Forms Data Entry for Hospital ER Dataset
+# Automated Google Forms Data Entry for Hospital ER Dataset
 
 > My submission for Python Automation Hackathon in Igniters Series organized by Technical Affairs of IIITDM Kancheepuram
 
 ![Python](https://img.shields.io/badge/Built%20with-Python-yellow?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Uses-Selenium-red?style=for-the-badge)
 
-## 📌 Problem Statement
+## Problem Statement
 
 Manual entry of thousands of patient records into google forms is:
 
@@ -13,7 +13,7 @@ Manual entry of thousands of patient records into google forms is:
 
 This slows down data analysis, reporting, and overall operational efficiency.
 
-## 🎯 Why I chose this problem
+## Why I chose this problem
 
 During the hackathon, I was challenged to automate repetitive workflows or build tools that save real human effort.
 
@@ -26,7 +26,7 @@ I chose this problem because:
 - It combines python, web automation, and data processing
 - Solving it can help teams spend less time on manual work and more time on insights
 
-## 📦 Requirements
+## Requirements
 
 ```bash
 pip install -r requirements.txt
@@ -38,7 +38,7 @@ Then
 python autofill.py
 ```
 
-## ⚙️ Solution Overview
+## Solution Overview
 
 I built a python automation script that:
 
@@ -54,14 +54,14 @@ I built a python automation script that:
 
 > ✅ Result: ~2800+ records can be uploaded automatically within minutes, saving massive manual effort
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python 3**
 - **Selenium** (for browser automation)
 - **pandas** (for CSV reading)
 - **Webdriver Manager** (for managing ChromeDriver)
 
-## 🚀 How it works
+## How it works
 
 1. Load config JSON file containing XPaths of Google Form fields
 2. Read hospital data from CSV (`hospital_er_data.csv`)
@@ -72,11 +72,11 @@ I built a python automation script that:
    - Submit the form
 4. Add random wait times to behave like a real user
 
-## 📷 Screenshots / Demo
+## Screenshots / Demo
 
 ![Form Filling Screenshot](screenshots/screenshot.png)
 
-## ✨ What I learned
+## What I learned
 
 - Using Selenium to handle dynamic elements (dropdowns, radio buttons)
 - Writing clean, modular Python automation
@@ -84,7 +84,7 @@ I built a python automation script that:
 
 ---
 
-- **Yashvanth S**
+- Yashvanth S
 - CS24I1029
 
 > _Built as part of Python Automation Hackathon in Igniters Series organized by Technical Affairs of IIITDM Kancheepuram_
