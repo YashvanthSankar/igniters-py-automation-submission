@@ -2,8 +2,8 @@
 
 > My submission for Python Automation Hackathon in Igniters Series organized by Technical Affairs of IIITDM Kancheepuram
 
-![Python](https://img.shields.io/badge/Built%20with-Python-yellow?style=for-the-badge)
-![Selenium](https://img.shields.io/badge/Uses-Selenium-red?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-43B02A?logo=selenium&logoColor=white)
 
 ## Problem Statement
 
@@ -22,8 +22,8 @@ During the hackathon, I was challenged to automate repetitive workflows or build
 
 I chose this problem because:
 
-- It’s practical, relatable, and has real impact
-- It combines python, web automation, and data processing
+- It’s practical, relatable and has real impact
+- It uses python, web automation, and data processing
 - Solving it can help teams spend less time on manual work and more time on insights
 
 ## Requirements
@@ -56,10 +56,10 @@ I built a python automation script that:
 
 ## Tech Stack
 
-- **Python 3**
-- **Selenium** (for browser automation)
-- **pandas** (for CSV reading)
-- **Webdriver Manager** (for managing ChromeDriver)
+- Python 3
+- Selenium (for browser automation)
+- Pandas (for CSV reading)
+- Webdriver Manager (for managing ChromeDriver)
 
 ## How it works
 
