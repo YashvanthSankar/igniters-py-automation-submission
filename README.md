@@ -3,7 +3,7 @@
 > My submission for Python Automation Hackathon in Igniters Series organized by Technical Affairs of IIITDM Kancheepuram
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-CB02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ## Problem Statement
 
