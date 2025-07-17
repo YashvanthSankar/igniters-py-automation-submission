@@ -2,6 +2,9 @@
 
 > My submission for Python Automation Hackathon in Igniters Series organized by Technical Affairs of IIITDM Kancheepuram
 
+![First Place](https://img.shields.io/badge/Achievement-1st%20Place-blueviolet?style=for-the-badge&logo=python)
+> **Update:** 🏆 Won **1st prize** in the **Python Automation Hackathon** as part of the *Igniters Hackathon Series* organized by Technical Affairs, **IIITDM Kancheepuram**.
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Selenium](https://img.shields.io/badge/-selenium-CB02A?style=for-the-badge&logo=selenium&logoColor=white)
 
